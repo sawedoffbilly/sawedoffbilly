@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello, I'm Daniel
 
-<!--
-**sawedoffbilly/sawedoffbilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🟢 I'm a person who has an extreme interest in computers and almost everything they're able to do!
 
-Here are some ideas to get you started:
+🔵 I'm a self-proclaimed Lua fanatic, primarily due to its amazing capabilities and versatility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟠 As of now, I'm currently moving from Roblox to stand-alone development.
+
+## 💻Langauges:
+[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+
+
+## 🌐Contacts:
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+- <a href="https://discord.com/users/992781797911953521" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=""/></a>
+## 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
+
+
